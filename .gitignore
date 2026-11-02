@@ -1,0 +1,8 @@
+# Browser data and generated backups must remain local.
+Backups/
+Local State
+Local State.*
+VariationsSeedV2*
+VariationsSafeSeedV2*
+*.log
+*.tmp
